@@ -1,0 +1,4 @@
+//Chapter 1
+// initialize git with "git init" -> you cant see the file but with "ls -a" you can see all the hidden files
+// Staging area (intermediate place) -> you can see whats inside with "git status" -> so far git is only in the working directory but not in the staging area
+// Add Chapter 1 to the staging area with "git add chapter1.txt"
