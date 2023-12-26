@@ -1,5 +1,11 @@
-//Chapter 1
+//Version Control Using Git and the Command line
 // initialize git with "git init" -> you cant see the file but with "ls -a" you can see all the hidden files
 // Staging area (intermediate place) -> you can see whats inside with "git status" -> so far git is only in the working directory but not in the staging area
    Add Chapter 1 to the staging area with "git add chapter1.txt" (in order to add all file you can use "git add .")
 // Make commit with "git commit -m "NAME"; you can see information about your commit with "git log"
+// git diff chapter3.txt to see the difference between the last version and the current version
+// "git checkout" - get to the previous version
+
+//GutHub and Remote Reprositories
+// create remote repository with: git remote add origin https://github.com/Shervin12345/Story.git01~
+// push local reprository to remote repository with: git push -u origin main (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)
