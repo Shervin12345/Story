@@ -9,3 +9,10 @@
 //GutHub and Remote Reprositories
 // create remote repository with: git remote add origin https://github.com/Shervin12345/Story.git01~ //not working - use the URL directly from above
 // push local reprository to remote repository with: git push -u origin main (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)
+
+//Branches
+// 1. Create new Branch with git branch NAME
+// 2. Check out what branches you have with git branch
+// 3. switch to one branch with git checkout NAME
+
+xxxxxxxx
