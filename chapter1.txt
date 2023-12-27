@@ -14,5 +14,4 @@
 // 1. Create new Branch with git branch NAME
 // 2. Check out what branches you have with git branch
 // 3. switch to one branch with git checkout NAME
-
-xxxxxxxx
+// 4. Merge branches with git merge BRANCHNAME (do that while you are at the main branch)
